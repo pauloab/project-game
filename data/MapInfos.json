@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Intro","order":1,"parentId":0,"scrollX":534,"scrollY":319},
+{"id":2,"expanded":true,"name":"Entrada","order":2,"parentId":1,"scrollX":534,"scrollY":319},
+{"id":3,"expanded":true,"name":"Nivel 1","order":3,"parentId":2,"scrollX":534,"scrollY":319},
+{"id":4,"expanded":true,"name":"Nivel 2","order":4,"parentId":3,"scrollX":534,"scrollY":319},
+{"id":5,"expanded":true,"name":"Sala","order":5,"parentId":4,"scrollX":534,"scrollY":319},
+{"id":6,"expanded":true,"name":"Nivel 3","order":6,"parentId":5,"scrollX":534,"scrollY":319},
+{"id":7,"expanded":false,"name":"Nivel 4","order":7,"parentId":6,"scrollX":534,"scrollY":305}
+]
